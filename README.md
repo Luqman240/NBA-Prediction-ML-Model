@@ -1,1 +1,1 @@
-# NBA-Prediction-ML-Model
+# NBA Prediction ML Model
